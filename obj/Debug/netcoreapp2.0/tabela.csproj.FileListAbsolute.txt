@@ -1,0 +1,10 @@
+/home/ubuntu/tabela/bin/Debug/netcoreapp2.0/tabela.deps.json
+/home/ubuntu/tabela/bin/Debug/netcoreapp2.0/tabela.runtimeconfig.json
+/home/ubuntu/tabela/bin/Debug/netcoreapp2.0/tabela.runtimeconfig.dev.json
+/home/ubuntu/tabela/bin/Debug/netcoreapp2.0/tabela.dll
+/home/ubuntu/tabela/bin/Debug/netcoreapp2.0/tabela.pdb
+/home/ubuntu/tabela/obj/Debug/netcoreapp2.0/tabela.csproj.CoreCompileInputs.cache
+/home/ubuntu/tabela/obj/Debug/netcoreapp2.0/tabela.AssemblyInfoInputs.cache
+/home/ubuntu/tabela/obj/Debug/netcoreapp2.0/tabela.AssemblyInfo.cs
+/home/ubuntu/tabela/obj/Debug/netcoreapp2.0/tabela.dll
+/home/ubuntu/tabela/obj/Debug/netcoreapp2.0/tabela.pdb
